@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: Uhvsd+W8n9qVWSSnC94/+uEQXhn1N653GIwRQjRCWmQ=
+
+Name: res/drawable/icon.xml
+SHA-256-Digest: RcYm2wCw2dPECMMBn90cZp75t7WByXG08l+G6wo8MHY=
+
+Name: resources.arsc
+SHA-256-Digest: 0Ee9aIg7BEKuJBzoXiYm48iFhvY53a60WuZ8vmAu3FE=
+
