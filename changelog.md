@@ -1,3 +1,6 @@
+### v0.7
+- Added direct TWRP install support
+
 ### v0.6
 - Added magisk-github update integration
 
