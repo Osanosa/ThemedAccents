@@ -1,7 +1,7 @@
 id=themedaccents
 name=Themed Accents
-version=0.6
-versionCode=6
+version=0.7
+versionCode=7
 author=Osanosa
 description=https://www.themed.pro/modules/accents
 updateJson=https://raw.githubusercontent.com/Osanosa/ThemedAccents/main/update.json
