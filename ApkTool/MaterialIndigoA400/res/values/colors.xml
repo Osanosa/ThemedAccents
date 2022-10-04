@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_device_default_700">#3D5AFE</color>
+    <color name="accent_device_default_dark">#3D5AFE</color>
+    <color name="accent_device_default_light">#3D5AFE</color>
+    <color name="fastscroller_text_color">#ffffff</color>
+</resources>

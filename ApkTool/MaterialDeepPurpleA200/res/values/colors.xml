@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="accent_device_default_700">#ff7c4dff</color>
-    <color name="accent_device_default_dark">#ff7c4dff</color>
-    <color name="accent_device_default_light">#ff7c4dff</color>
-    <color name="fastscroller_text_color">#ffffffff</color>
+    <color name="accent_device_default_700">#7c4dff</color>
+    <color name="accent_device_default_dark">#7c4dff</color>
+    <color name="accent_device_default_light">#7c4dff</color>
+    <color name="fastscroller_text_color">#ffffff</color>
 </resources>
