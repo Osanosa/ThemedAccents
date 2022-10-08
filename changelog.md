@@ -1,6 +1,6 @@
 ### v0.8 
 - Added 16 new accents (A400 palette)
-
+- Changed overlays priority to 1
 ### v0.7
 - Added direct TWRP install support
 
