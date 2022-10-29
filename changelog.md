@@ -1,3 +1,7 @@
+### v0.9
+- Small fix of 2 mixed up colors
+- Minor internal sructure change
+
 ### v0.8 
 - Added 16 new accents (A400 palette)
 - Changed overlays priority to 1
