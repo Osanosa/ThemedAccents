@@ -1,3 +1,6 @@
+### v1.0
+- Added separate accents for dark theme
+
 ### v0.9
 - Small fix of 2 mixed up colors
 - Minor internal sructure change
