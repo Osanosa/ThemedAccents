@@ -13,7 +13,7 @@ if [ -f /sbin/recovery ]; then
     # Installing via recovery. Always do a direct install.
     # Cleaning variables data I guess 
     set -exu
-    # Checking forsystem type and file structure
+    # Checking for system type and file structure
     ui_print 'Mounting system'
     if mount /system_root; then
         root_dir=/system_root
