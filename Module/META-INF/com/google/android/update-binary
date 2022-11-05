@@ -13,7 +13,7 @@ if [ -f /sbin/recovery ]; then
     # Installing via recovery. Always do a direct install.
     # Cleaning variables data I guess 
     set -exu
-    # Checking for system type and file structure
+    # Checking forsystem type and file structure
     ui_print 'Mounting system'
     if mount /system_root; then
         root_dir=/system_root
@@ -31,5 +31,7 @@ else
     # Installing via Magisk Manager.
     # DO NOT REMOVE NEXT LINE, IT'S MANDATORY
         . /data/adb/magisk/util_functions.sh
+    install_module
+fiunctions.sh
     install_module
 fi
