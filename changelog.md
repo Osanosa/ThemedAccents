@@ -1,5 +1,6 @@
-### v1.0
+### v1.0.1
 - Added separate accents for dark theme
+- Small fixes
 
 ### v0.9
 - Small fix of 2 mixed up colors
