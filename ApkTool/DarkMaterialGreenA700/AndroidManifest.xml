@@ -11,7 +11,7 @@
     <overlay
         android:priority="1"
         android:targetPackage="android"
-        android:category="android.theme.customization.accentdark_color" />
+        android:category="themed.accent_dark_color" />
     <application
         android:label="DarkMaterialGreenA700"
         android:icon="@drawable/icon"
