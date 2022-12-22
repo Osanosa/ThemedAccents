@@ -1,3 +1,6 @@
+### v1.1
+- Now supports A12+
+
 ### v1.0.1
 - Added separate accents for dark theme
 - Small fixes
